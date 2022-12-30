@@ -21,4 +21,4 @@ xxxxx@cloudshell:~ (taskertalk-357107)$ ^C
 ```
 
 # Sources
-Most of this was taken from (https://github.com/bhattbhavesh91/voice-assistant-whisper-chatgpt/blob/main/OpenAI-Whisper-ChatGPT-Notebook.ipynb)[bhattbhavesh91]. The rest from (OpenAiAuth)[https://github.com/acheong08/OpenAIAuth] docs.
+Most of this was taken from [bhattbhavesh91](https://github.com/bhattbhavesh91/voice-assistant-whisper-chatgpt/blob/main/OpenAI-Whisper-ChatGPT-Notebook.ipynb)[. The rest from (OpenAiAuth)[https://github.com/acheong08/OpenAIAuth] abd GoogleCloud docs.
