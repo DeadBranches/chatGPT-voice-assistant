@@ -1,6 +1,19 @@
 # chatGPT-voice-assistant
 Speak to ChatGPT and have it speak back.
 
+When run microphone audio is passed to a speech-to-text engine for transcription, which is then passed to ChatGPT, who's response is spoken using a text-to-speech engine.
+
+# Technologies
+Google Cloud, text to Speech
+
+Whisper, speech to text
+
+Gradio, user interface
+
+revChatGPT, ChatGPT authentication
+
+VLC, audio playback (Windows)
+
 # Google Cloud Authentication
 To use Google's voice-to-speech service you'll need to generate a service key. Start a new project, open up the cloud shell, and use the following commands:
 
